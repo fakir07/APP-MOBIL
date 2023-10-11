@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ONEE - Auto Relevé</string>
+    <!-- login -->
+    <string name="login_title">Service Auto-relevé</string>
+    <string name="login_subtitle">Veuilez enter vos information \n d\'authentification</string>
+    <string name="login_hint1">Taper votre adresse E-mail</string>
+    <string name="login_hint2">Taper votre mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_create">Créer un nouveau compte</string>
+    <string name="login_forgot">Mot de passe oublié?</string>
+    <string name="login_cr">ONEE-BE 2020, Tous droits réservés</string>
+    <!-- Register -->
+    <string name="register_title">Créer un nouveau compte</string>
+    <string name="register_hint1">Nom et prénom</string>
+    <string name="register_hint2">Votre Email</string>
+    <string name="register_hint3">N° Contrat</string>
+    <string name="register_hint4">CIN</string>
+    <string name="register_hint5">Mot de passe</string>
+    <string name="register_hint6">Confirmer le mot de passe</string>
+    <string name="register_button">S\'enregistrer</string>
+
+
+
+
+    <!--<string name="app_name">ONEE</string>
+    <string name="action_settings">Full name</string>
+    <string name="action_settings2">E-mail</string>
+    <string name="action_setting3">N Contrat</string>
+    <string name="action_setting4">CIN</string>
+    <string name="action_setting6"> Password</string>
+    <string name="action_setting5">create_new_account</string>
+    <string name="action_setting7">Confirm password</string>
+    <string name="action_setting8">Sign in</string>
+    <string name="action_setting9">Sign up</string>-->
+</resources>

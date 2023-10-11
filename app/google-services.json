@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082759193999",
+    "firebase_url": "https://FAKIR-dcb3b.firebaseio.com",
+    "project_id": "FAKIR-dcb3b",
+    "storage_bucket": "FAKIR-dcb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082759193999:android:7b4c875326c1caaf6997fa",
+        "android_client_info": {
+          "package_name": "com.example.FAKIR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082759193999-ldbtmcg2jju3tbad5ajk29piv0h2feut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX_lo_AGZjlXmZs0KnOuo51tv9cXr9AIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082759193999-ldbtmcg2jju3tbad5ajk29piv0h2feut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
